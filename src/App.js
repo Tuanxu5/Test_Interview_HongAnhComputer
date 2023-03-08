@@ -1,23 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Footer from "./layout/Footer";
+import Header from "./layout/Header";
+import MainBreadcrumb from "./layout/MainBreadcrumb";
+import OrderLookup from "./layout/OrderLookup";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className=" bg-[#F5F5FA] py-[16px] max-sm-[640px]:bg-white">
+      <Header></Header>
+      <MainBreadcrumb></MainBreadcrumb>
+      <OrderLookup></OrderLookup>
+      <Footer></Footer>
     </div>
   );
 }
