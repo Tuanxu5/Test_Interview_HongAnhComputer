@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Test_Interview_HongAnhComputer/static/css/main.6151a943.css",
+    "main.js": "/Test_Interview_HongAnhComputer/static/js/main.c4dea3c0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Test_Interview_HongAnhComputer/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image.png": "/Test_Interview_HongAnhComputer/static/media/image.b26b150be59db6e5fe70.png",
+    "static/media/image 9.png": "/Test_Interview_HongAnhComputer/static/media/image 9.02eeeec3c3c6151b2fc9.png",
+    "static/media/logo192.png": "/Test_Interview_HongAnhComputer/static/media/logo192.5261c4f16fdcba8433c6.png",
+    "index.html": "/Test_Interview_HongAnhComputer/index.html",
+    "main.6151a943.css.map": "/Test_Interview_HongAnhComputer/static/css/main.6151a943.css.map",
+    "main.c4dea3c0.js.map": "/Test_Interview_HongAnhComputer/static/js/main.c4dea3c0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Test_Interview_HongAnhComputer/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6151a943.css",
+    "static/js/main.c4dea3c0.js"
+  ]
+}
